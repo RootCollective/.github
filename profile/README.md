@@ -6,42 +6,43 @@
 
 # RootCollective
 
-**RootCollective** est un collectif de développement orienté vers la création d’outils, frameworks et solutions innovantes pour les écosystèmes FiveM, web et applicatifs.  
-Notre objectif est de bâtir un environnement **modulaire**, **optimisé** et **ouvert**, qui facilite la conception de projets performants et durables.
+**RootCollective** is a development collective focused on creating tools, frameworks, and innovative solutions for the FiveM, web, and application ecosystems.
+Our goal is to build a **modular**, **optimized**, and **open** environment that makes it easier to design high-performance and sustainable projects.
 
 > *From roots, we build the future.*
 
 ---
 
-## Nos projets
+## Our Projects
 
-| Projet | Description |
-|--------|--------------|
-| **root** | Framework modulaire complet et optimisé pour FiveM |
-| **root-discord-bot** | Bot Discord intelligent pour la gestion et l’intégration serveur |
-| **root-site** | Site web moderne et réactif, vitrine du collectif |
-| **root-lib** | Outils et utilitaires pour le développement sur FiveM |
-
----
-
-## Philosophie
-
-Nous croyons en :
-- la **modularité**, pour une architecture claire et évolutive ;  
-- la **performance**, pour des serveurs fluides et stables ;  
-- la **collaboration**, pour faire grandir nos outils ensemble ;  
-- l’**open source**, parce que la connaissance doit circuler.  
+| Project              | Description                                                        |
+| -------------------- | ------------------------------------------------------------------ |
+| **root**             | A complete and optimized modular framework for FiveM               |
+| **root-discord-bot** | Smart Discord bot for server management and integration            |
+| **root-site**        | Modern and responsive website serving as the collective’s showcase |
+| **root-lib**         | Tools and utilities for FiveM development                          |
 
 ---
 
-## Rejoindre le collectif
+## Philosophy
 
-Tu veux contribuer ?  
-Rejoins-nous et aide à faire pousser la prochaine génération d’outils !
+We believe in:
 
-- **Site web :** [Ouvrir](https://rootcollective.dev) *(à venir)*  
-- **Discord :** [Rejoindre](https://discord.gg/7w4JACrWwu)
-- **Contact :** [contact@rootcollective.dev](mailto:contact@rootcollective.dev)
+* **Modularity**, for clear and scalable architecture;
+* **Performance**, for smooth and stable servers;
+* **Collaboration**, to grow our tools together;
+* **Open source**, because knowledge should be shared.
+
+---
+
+## Join the Collective
+
+Want to contribute?
+Join us and help grow the next generation of tools!
+
+* **Website:** [Open](https://rootcollective.dev) *(coming soon)*
+* **Discord:** [Join](https://discord.gg/7w4JACrWwu)
+* **Contact:** [contact@rootcollective.dev](mailto:contact@rootcollective.dev)
 
 ---
 
