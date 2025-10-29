@@ -40,7 +40,7 @@ Tu veux contribuer ?
 Rejoins-nous et aide à faire pousser la prochaine génération d’outils !
 
 - **Site web :** [Ouvrir](https://rootcollective.dev) *(à venir)*  
-- **Discord :** [Rejoindre](https://discord.gg/7w4JACrWwu) *(à venir)*  
+- **Discord :** [Rejoindre](https://discord.gg/7w4JACrWwu)
 - **Contact :** [contact@rootcollective.dev](mailto:contact@rootcollective.dev)
 
 ---
