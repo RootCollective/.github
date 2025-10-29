@@ -17,10 +17,10 @@ Notre objectif est de bâtir un environnement **modulaire**, **optimisé** et **
 
 | Projet | Description |
 |--------|--------------|
-| **Root** | Framework modulaire complet et optimisé pour FiveM |
-| **RootBot** | Bot Discord intelligent pour la gestion et l’intégration serveur |
-| **RootSite** | Site web moderne et réactif, vitrine du collectif |
-| **RootTools** | Outils et utilitaires pour le développement et la maintenance |
+| **root** | Framework modulaire complet et optimisé pour FiveM |
+| **root-discord-bot** | Bot Discord intelligent pour la gestion et l’intégration serveur |
+| **root-site** | Site web moderne et réactif, vitrine du collectif |
+| **root-lib** | Outils et utilitaires pour le développement sur FiveM |
 
 ---
 
