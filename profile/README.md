@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.ibb.co/fYLPQV5w/Main-banner-1920x1080.png" alt="RootCollective Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/RootCollective/.github/main/banner.png" alt="RootCollective Banner" width="100%" />
 </p>
 
 ---
 
-# 🌱 RootCollective
+# RootCollective
 
 **RootCollective** est un collectif de développement orienté vers la création d’outils, frameworks et solutions innovantes pour les écosystèmes FiveM, web et applicatifs.  
 Notre objectif est de bâtir un environnement **modulaire**, **optimisé** et **ouvert**, qui facilite la conception de projets performants et durables.
@@ -13,7 +13,7 @@ Notre objectif est de bâtir un environnement **modulaire**, **optimisé** et **
 
 ---
 
-## 🚀 Nos projets
+## Nos projets
 
 | Projet | Description |
 |--------|--------------|
@@ -24,7 +24,7 @@ Notre objectif est de bâtir un environnement **modulaire**, **optimisé** et **
 
 ---
 
-## 🧩 Philosophie
+## Philosophie
 
 Nous croyons en :
 - la **modularité**, pour une architecture claire et évolutive ;  
@@ -34,7 +34,7 @@ Nous croyons en :
 
 ---
 
-## 🤝 Rejoindre le collectif
+## Rejoindre le collectif
 
 Tu veux contribuer ?  
 Rejoins-nous et aide à faire pousser la prochaine génération d’outils !
